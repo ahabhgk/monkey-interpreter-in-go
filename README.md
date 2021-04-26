@@ -1,3 +1,3 @@
 # monkey-interpreter-in-go
 
-Learn [Monkey](https://monkeylang.org/)
+Learn to write a [Monkey](https://monkeylang.org/) interpreter in go.
