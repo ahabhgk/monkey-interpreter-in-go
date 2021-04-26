@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82512a2c-6ca7-4690-b6b4-38b89193f292" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.16.3/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1rZKqUln16ZlJ9TLGfB9W4briOy" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestExpandMacros in github.com/ahabhgk/monkey-interpreter-in-go/evaluator">
+    <configuration name="TestExpandMacros in github.com/ahabhgk/monkey-interpreter-in-go/evaluator" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="monkey-interpreter" />
+      <working_directory value="$PROJECT_DIR$/evaluator" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/ahabhgk/monkey-interpreter-in-go/evaluator" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestExpandMacros$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMacroLiteralParsing in github.com/ahabhgk/monkey-interpreter-in-go/parser" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="monkey-interpreter" />
+      <working_directory value="$PROJECT_DIR$/parser" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/ahabhgk/monkey-interpreter-in-go/parser" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestMacroLiteralParsing$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestModify in github.com/ahabhgk/monkey-interpreter-in-go/ast" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="monkey-interpreter" />
+      <working_directory value="$PROJECT_DIR$/ast" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/ahabhgk/monkey-interpreter-in-go/ast" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestModify$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestQuoteUnquote in github.com/ahabhgk/monkey-interpreter-in-go/evaluator" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="monkey-interpreter" />
+      <working_directory value="$PROJECT_DIR$/evaluator" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/ahabhgk/monkey-interpreter-in-go/evaluator" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestQuoteUnquote$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test github.com/ahabhgk/monkey-interpreter-in-go/evaluator" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="monkey-interpreter" />
+      <working_directory value="$PROJECT_DIR$/evaluator" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/ahabhgk/monkey-interpreter-in-go/evaluator" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestExpandMacros in github.com/ahabhgk/monkey-interpreter-in-go/evaluator" />
+        <item itemvalue="Go Test.go test github.com/ahabhgk/monkey-interpreter-in-go/evaluator" />
+        <item itemvalue="Go Test.TestMacroLiteralParsing in github.com/ahabhgk/monkey-interpreter-in-go/parser" />
+        <item itemvalue="Go Test.TestQuoteUnquote in github.com/ahabhgk/monkey-interpreter-in-go/evaluator" />
+        <item itemvalue="Go Test.TestModify in github.com/ahabhgk/monkey-interpreter-in-go/ast" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+</project>
